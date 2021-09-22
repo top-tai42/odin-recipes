@@ -1,0 +1,27 @@
+/* main style sheet for recipe application */
+
+* {
+    background-color: hsl(197, 60%, 80%);
+}
+
+h1 {
+    background-color: darkblue;
+    color: lightblue;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Imago, sans-serif;
+}
+
+h2 {
+    background-color: hsl(240, 100%, 50%);
+    color: whitesmoke;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: Imago, sans-serif;   
+}
+
+div p, .container {
+    background-color: white;
+}
